@@ -1,0 +1,13 @@
+/* Footer styles */
+.footer {
+    background-color: #4d4d4d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 60px;
+}
+
+.footer > .links-wrapper {
+    width: 400px;
+}

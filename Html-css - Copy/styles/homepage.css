@@ -1,0 +1,10 @@
+/* Hero setion styles */
+.hero-section {
+    background-image: url(../image/background/forest-area.png);
+    padding: 100px;
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
