@@ -1,0 +1,6 @@
+Font
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Nunito', sans-serif;
+
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap" rel="stylesheet">

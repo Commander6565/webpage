@@ -1,0 +1,62 @@
+/* Footer styles */
+.footer {
+    background-color: #463a32;
+    color: #7a644b;
+    font-family: 'Roboto Mono', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+    margin-top: -6px;
+}
+
+.footer > .logo-footer {
+    width: 200px;
+    height: 100%;
+    /* filter: brightness(100%); */
+    filter: opacity(70%);
+}
+
+.footer > .footer-phone-hours span {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1em;
+    letter-spacing: 2px;
+}
+
+.footer > .footer-phone-hours > .hours {
+    font-size: 0.8em;
+    color: #8f7767;
+    text-transform: uppercase;
+}
+
+.footer > .links-wrapper {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 400px;
+}
+
+.footer > .social-icons {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer > .social-icons a {
+    font-size: 1.5em;
+    color: #8f7767;
+    transition: 0.5;
+}
+
+.footer > .social-icons a:hover {
+    color: #ddc4b3;
+}
+
+.footer > .copyright-wrapper {
+    margin-bottom: 42px;
+    font-size: 0.7em;
+    color: #c7aa95;
+}
